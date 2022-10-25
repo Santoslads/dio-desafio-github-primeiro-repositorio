@@ -1,5 +1,3 @@
-![](C:\Users\Leandro\Desktop\Git.png)      ![](C:\Users\Leandro\Desktop\Github.png)
-
 # Desafio de Projeto sobre Git/GitHub da DIO
 
 Repositório criado para o desafio de projeto sobre Git/GitHub
